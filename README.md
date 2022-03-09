@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @osmansozen
 - 👀 I’m interested in data science and AI
-- 🌱 I’m currently learning Python (Pandas & scikit-learn)
+- 🌱 I’m currently learning AWS
 - 📫 You can reach me via osmnszn@outlook.com
